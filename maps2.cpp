@@ -1,6 +1,7 @@
 #include<iostream>
 #include<map>
 #include<string>
+#include<algorithms>
 using namespace std;
 
 int main()
